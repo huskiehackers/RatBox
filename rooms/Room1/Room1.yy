@@ -13,8 +13,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"assest creation",
-    "path":"assest creation.yyp",
+    "name":"RatBox2",
+    "path":"RatBox2.yyp",
   },
   "parentRoom":null,
   "physicsSettings":{

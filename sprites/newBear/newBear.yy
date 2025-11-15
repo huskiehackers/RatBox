@@ -20,6 +20,7 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"4b6767de-a6ef-49ff-bce1-0ea116cd707c","blendMode":0,"displayName":"bearArms","isLocked":false,"name":"4b6767de-a6ef-49ff-bce1-0ea116cd707c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"e0d51793-88ad-4ed9-bcbe-99ad43481bbe","blendMode":0,"displayName":"bearBreathe","isLocked":false,"name":"e0d51793-88ad-4ed9-bcbe-99ad43481bbe","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"6f87ac98-6a10-43ef-82fe-6b28572c3048","blendMode":0,"displayName":"bearBody","isLocked":false,"name":"6f87ac98-6a10-43ef-82fe-6b28572c3048","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"c03affea-c499-43af-8bb7-6fd144dcf159","blendMode":0,"displayName":"bearFeet","isLocked":false,"name":"c03affea-c499-43af-8bb7-6fd144dcf159","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
@@ -27,8 +28,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"assest creation",
-    "path":"assest creation.yyp",
+    "name":"RatBox2",
+    "path":"RatBox2.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

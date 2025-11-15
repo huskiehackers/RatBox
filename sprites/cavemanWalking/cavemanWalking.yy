@@ -29,8 +29,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"assest creation",
-    "path":"assest creation.yyp",
+    "name":"RatBox2",
+    "path":"RatBox2.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

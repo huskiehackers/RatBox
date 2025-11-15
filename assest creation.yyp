@@ -1,6 +1,6 @@
 {
   "$GMProject":"v1",
-  "%Name":"RatBox2",
+  "%Name":"assest creation",
   "AudioGroups":[
     {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -17,10 +17,9 @@
   "MetaData":{
     "IDEVersion":"2024.14.0.207",
   },
-  "name":"RatBox2",
+  "name":"assest creation",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"bearBaby","path":"sprites/bearBaby/bearBaby.yy",},},
     {"id":{"name":"bearIdle","path":"sprites/bearIdle/bearIdle.yy",},},
     {"id":{"name":"cavemanIdle","path":"sprites/cavemanIdle/cavemanIdle.yy",},},
     {"id":{"name":"cavemanWalking","path":"sprites/cavemanWalking/cavemanWalking.yy",},},
@@ -28,7 +27,6 @@
     {"id":{"name":"microwaveWithRat","path":"sprites/microwaveWithRat/microwaveWithRat.yy",},},
     {"id":{"name":"newBear","path":"sprites/newBear/newBear.yy",},},
     {"id":{"name":"ratWalking","path":"sprites/ratWalking/ratWalking.yy",},},
-    {"id":{"name":"stage1","path":"sprites/stage1/stage1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
